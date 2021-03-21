@@ -27,3 +27,5 @@ let python_highlight_all = 1
 
 
 set laststatus=2
+
+"asdf
