@@ -13,6 +13,9 @@ set autoindent
 " expand tabs into spaces
 set expandtab
 
+set softtabstop=4
+set smarttab
+
 " when using the >> or << commands, shift lines by 4 spaces
 set shiftwidth=4
 
@@ -27,4 +30,12 @@ let python_highlight_all = 1
 
 
 set laststatus=2
+
+"number
+"set ai
+"set ls=2
+"set autoindent
+"set list listchars=tab:»-,trail:·,extends:»,precedes:«
+""set list listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:·
+"set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 
